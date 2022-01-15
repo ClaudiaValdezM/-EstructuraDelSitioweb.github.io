@@ -1,0 +1,27 @@
+.imgTel{
+    margin-left: 11%;
+    margin-top: 10px;
+    width: 40px;
+    height: 30px;
+}
+.imagenes{
+    display: block;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+    .imagenesRedondas{
+        border-radius: 80px;
+        width: 150px;
+        height: 150px;
+    }
